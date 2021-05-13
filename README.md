@@ -2,6 +2,8 @@ Go to index.js after you have finished marking the lines of code for your bot to
 wait something, help this server, etc, you can replace it if you want
 
 
+
+
 const activities_list = [
     "Wait something.", 
     "Help this server",
